@@ -1,10 +1,10 @@
-##Spanish Verb Conjugation Learning Tools
+## Spanish Verb Conjugation Learning Tools
 
-####Work In Progress
+#### Work In Progress
 
 This repository contains a collection of tools and projects to assist in studying for Spanish classes.
 
-######Projects
+###### Projects
 1. **Python Verb Dictionary API** 
     + Provide api to easily translate or conjugate any spanish verb 
     using web scraped MongoDB spanish conjugations
